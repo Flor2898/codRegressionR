@@ -7,4 +7,4 @@ Este código calcula una regresión lineal simple usando bibliotecas de R. Adici
 Pertenezco al 10mo ciclo
 
 ##### Creditos
-Este repositrio es parte de la clase de Análisis Espacial en la PUCP
+Este repositrio es parte de la clase de Análisis Espacial en la [PUCP](https://www.pucp.edu.pe/)
